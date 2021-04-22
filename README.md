@@ -338,6 +338,8 @@ Y por ultimo, un clasico inalgurado en el 1999, el `cowsay`. Todo mola más cuan
                 ||     ||
 ```
 
+El combo `fortune | cowsay | lolcat` es la sabiduria bovina.
+
 ### Fast Image processing
 Imaginate que necesitas cambiar el tamaño a miles de imagenes, sea para thumbnails en una web o para algun proyecto de computer vision. Que trabajo sería abrirlas una a una en photoshop...
 
