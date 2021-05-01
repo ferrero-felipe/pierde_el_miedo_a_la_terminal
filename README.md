@@ -6,7 +6,7 @@ Por ultimo veremos algunos ejemplos practicos que podemos utilizar y algunos tip
 
 ---
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DEC_VT100_terminal_transparent.png/1200px-DEC_VT100_terminal_transparent.png)
+![](img/terminal.png)
 
 ## Que es la terminal?
 La terminal es una manera de interactuar con el ordenador, pero en lugar de hacerlo a traves de iconos y movimientos del raton, en lo que conocemos como **GUI** (Graphical User Interface), se hacen con líneas de comandos. Y por eso la terminal es una **CLI** (Command Line Interface).
@@ -25,7 +25,7 @@ Pero no temáis, caros usuarios de Windows, podéis tener lo mismo, con algunas 
 
 No nos enganemos por su antiguedad y estética sencilla. La terminal es una tecnologia muy concisa y que permanece muy actual.
 
-![](https://i.pinimg.com/originals/9e/b4/16/9eb4164e55781372ac1ebe21ce056f6c.jpg)
+![](img/cli.jpeg)
 
 ## Por que aprender la terminal?
 Es popular
@@ -42,7 +42,7 @@ Tiene utilidades muy importantes
 Bonus:
 - Postureo de Hacker. 😂💻
 
-<img src="https://external-preview.redd.it/4lnFFyQJ8ZuV11zAkHW9q3VUfPHS-KL29kb76c0RM2s.jpg?auto=webp&s=20de54cd38fe99d817d283f802053c16f08e4ad9" height=400/>
+<img src="img/hacker.jpeg" max-height=400/>
 
 Vamos a ello!
 
@@ -119,7 +119,7 @@ Hay otras opciones para ls, por ejemplo, al hacer el comando `ls -l`, vemos la v
 
 ## ➥ cd
 
-![](https://infx511.github.io/img/command-line/matrix-cli.jpg)
+![](img/matrix.jpeg)
 
 Hemos visto como localizarnos y saber que contenido tenemos disponible en esa localidad, pero como nos movemos entre los diferentes directorios?
 Usemos el comando `cd` (Change Directory) y el nombre de la carpeta a la cual queremos acceder, prueba, por ejemplo:
@@ -212,7 +212,7 @@ El comando `touch` es similar al anterior, pero en lugar de crear un directorio,
 `touch server.py`
 
 ### ➥ cat
-<img src="https://i.pinimg.com/originals/25/09/9d/25099dcc3d439291d3b44c3c17400934.jpg" height=400/>
+<img src="img/cat.jpeg" max-height=400/>
 
 Ese comando que recibe su nombre de la palabra `concatenate`, lo que hace es enseñarnos el contenido de un fichero.
 
@@ -255,7 +255,7 @@ Si miramos ahora el contenido del fichero _calendario_, ambos el calendario y la
 
 ### Pipe
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/25247b92-6844-4fef-8ed8-5055cc35bf58/ddzqjp9-2c0f4355-53fa-4a92-bde6-f61c25ecaf25.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjUyNDdiOTItNjg0NC00ZmVmLThlZDgtNTA1NWNjMzViZjU4XC9kZHpxanA5LTJjMGY0MzU1LTUzZmEtNGE5Mi1iZGU2LWY2MWMyNWVjYWYyNS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.iNtkgGQmX0a3czOFNvtyWlyfmztUlhGw4gSgUyW0yec" height=200/>
+<img src="img/mario.png" height=200/>
 
 No siempre queremos que el _output_, i.e.: la respuesta, de un comando se guarde en un fichero. Muchas veces queremos que ese _output_ sea el _input_ (el argumento) de un otro comando. No lo podemos hacer con el operador de redirección, hay un operador específico para eso, el operador `pipe`, representado por el caracter `|`.
 
@@ -292,7 +292,7 @@ La practica y fluidez en el uso de la `CLI` viene con la practica, pero hay much
 
 ### Cycle commands
 
-![](https://elijahmanor.com/_next/static/chunks/images/pun-history-9ae10e7b5db47f3ff1326f01fbbd2a25.jpg)
+![](img/cycle.jpeg)
 
 La terminal guarda un historico de los comandos que ejecutaste, si quieres volver a encontrar un comando, puede navegarles utilizando las flechas `↑ ↓`.
 
